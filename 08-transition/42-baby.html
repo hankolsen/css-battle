@@ -1,0 +1,65 @@
+<html>
+<body>
+<div w>
+<div h>
+  <div f></div>
+</div>
+</div>
+<style>
+body {
+  background: #293462;
+}
+[w] {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+[h] {
+  width: 200px;
+  height: 200px;
+  background: #fe5f55;
+  border-radius: 50% 50% 50px 50px;
+  overflow: hidden;
+  position: relative;
+}
+[h]:before,
+[h]:after {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background: #fff1c1;
+  content: '';
+  position: absolute;
+  top: -50px;
+  left: 0px;
+}
+[h]:after {
+  left: 100px;
+}
+[f] {
+  background: #fff1c1;
+  width: 40px;
+  height: 10px;
+  border-radius: 5px;
+  position: absolute;
+  top: 170px;
+  left: 80px;
+}
+[f]:before,
+[f]:after {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background: #fff1c1;
+  content: '';
+  position: absolute;
+  top: -80px;
+  left: -60px;
+}
+[f]:after {
+  left: 40px;
+}
+</style>
+</body>
+</html>
