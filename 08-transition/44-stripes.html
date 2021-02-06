@@ -1,0 +1,58 @@
+<html>
+<body>
+<div w>
+  <div a></div>
+  <div b></div>
+  <div b></div>
+  <div g>
+    <div c></div>
+    <div c></div>
+    <div c></div>
+    <div c></div>
+    <div c></div>
+    <div c></div>
+    <div c></div>
+    <div c></div>
+  </div>
+</div>
+<style>
+  body {
+    background: #1a4341;
+  }
+  [w] {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  [a] {
+    width: 160px;
+    height: 180px;
+    background: #f3ac3c;
+  }
+  [b] {
+    width: 300px;
+    height: 300px;
+    background: #1a4341;
+    border-radius: 50%;
+    position: absolute;
+    left: -150px;
+  }
+  [b] + [b] {
+    left: 250px;
+  }
+  [g] {
+    position: absolute;
+    top: 60px;
+  }
+  [c] {
+    width: 150px;
+    height: 20px;
+    background: #1a4341;
+  }
+  [c]:nth-child(2n + 1) {
+    background: transparent;
+  }
+</style>
+</body>
+</html>

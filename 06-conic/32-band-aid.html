@@ -1,0 +1,42 @@
+<html>
+<body>
+<div b>
+  <div a></div>
+  <div c></div>
+</div>
+<style>
+  [b] {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  [a],
+  [c] {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    transform: rotate(-45deg);
+    background: #fbe18c;
+  }
+  [a]:before {
+    width: 200px;
+    height: 50px;
+    background: #a3a368;
+    content: '';
+    position: absolute;
+    z-index: -1;
+    left: -75px;
+  }
+  [a]:after {
+    width: 50px;
+    height: 200px;
+    background: #f3ac3c;
+    content: '';
+    position: absolute;
+    z-index: -1;
+    top: -75px;
+  }
+</style>
+</body>
+</html>
