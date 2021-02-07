@@ -1,43 +1,39 @@
-<html>
-  <body>
-    <div w>
-      <div a></div>
-      <div b></div>
-    </div>
-    <style>
-      body {
-        background: #aa445f;
-      }
-      div {
-        width: 100px;
-        height: 200px;
-        right: 0;
-        position: relative;
-        overflow: hidden;
-      }
-      [a]:before,
-      [b]:before {
-        width: 200px;
-        height: 200px;
-        background: #f7ec7d;
-        border-radius: 50%;
-        content: '';
-        position: absolute;
-        left: 0;
-      }
-      [b]:before {
-        background: #e38f66;
-        right: 0;
-        left: auto;
-      }
-      [w] {
-        display: flex;
-        justify-content: space-around;
-        align-items: center;
-        height: 100%;
-        width: 300px;
-        margin: 0 auto;
-      }
-    </style>
-  </body>
-</html>
+<div w>
+  <div a></div>
+  <div b></div>
+</div>
+<style>
+  body {
+    background: #aa445f;
+  }
+  div {
+    width: 100px;
+    height: 200px;
+    right: 0;
+    position: relative;
+    overflow: hidden;
+  }
+  [a]:before,
+  [b]:before {
+    width: 200px;
+    height: 200px;
+    background: #f7ec7d;
+    border-radius: 50%;
+    content: '';
+    position: absolute;
+    left: 0;
+  }
+  [b]:before {
+    background: #e38f66;
+    right: 0;
+    left: auto;
+  }
+  [w] {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100%;
+    width: 300px;
+    margin: 0 auto;
+  }
+</style>

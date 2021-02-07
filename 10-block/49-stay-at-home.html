@@ -1,0 +1,42 @@
+<div a></div>
+<div b></div>
+<style>
+body {
+  background: #6592cf;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  top: -58px;
+}
+[a] {
+  border: 100px solid transparent;
+  border-bottom-color: #243d83;
+}
+[b] {
+  width: 150px;
+  height: 100px;
+  border-radius: 0 0 10px 10px;
+  background: #243d83;
+  position: relative;
+}
+[b]:before,[b]:after {
+  content: '';
+  position: absolute;
+  background: #eeb850;
+}
+[b]:before {
+  bottom: 0px;
+  left: 50px;
+  height: 50px;
+  width: 50px;
+  border-radius: 10px 10px 0 0;
+}
+[b]:after {
+  top: -5px;
+  height: 10px;
+  width: 100px;
+  border-radius: 5px;
+  left: 25px;
+}
+</style>
