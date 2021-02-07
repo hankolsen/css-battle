@@ -1,0 +1,48 @@
+<div a></div>
+<div b></div>
+<div a></div>
+<div c><div d></div></div>
+<style>
+body {
+  background: #6592cf;
+  display: flex;
+  align-items: center;
+}
+div {
+  width: 10px;
+  height: 60px;
+  background: #243d83;
+  position: relative;
+  margin-right: 35px;
+  top: 10px;
+  left: 37px;
+}
+[a]:before,[b]:before {
+  width: 20px;
+  height: 20px;
+  border-radius: 20px;
+  content: '';
+  position: absolute;
+  background: #243d83;
+  top: 0px;
+  left: -5px;
+  box-shadow: 0 0 0 10px #eeb850;
+  z-index: -1;
+}
+[b]:before {
+  box-shadow: 0 -10px 0 20px #eeb850;
+}
+[c] {
+  margin-left: 30px;
+  box-shadow: 45px 0 #243d83, 90px 0 #243d83, 135px 0 #243d83;
+}
+[d] {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  position: absolute;
+  top: 0;
+  left: -5px;
+  box-shadow: 45px 0 #243d83, 90px 0 #243d83, 135px 0 #243d83;
+}
+</style>
