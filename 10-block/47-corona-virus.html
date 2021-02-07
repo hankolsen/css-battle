@@ -1,0 +1,60 @@
+<html>
+<body>
+<div r></div>
+<div c></div>
+<style>
+body {
+  background: #1a4341;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+div {
+  position: relative;
+  background: #f3ac3c;
+}
+div:before,
+div:after {
+  content: '';
+  position: absolute;
+}
+[c] {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+[c]:before {
+  width: 20px;
+  height: 20px;
+  background: #998235;
+  border-radius: 50%;
+  top: 65px;
+  left: 40px;
+  box-shadow: -15px -40px 0 5px #998235, 25px -50px 0 -5px #998235;
+}
+[r] {
+  position: absolute;
+  width: 10px;
+  height: 180px;
+  border-radius: 5px;
+  left: 195px;
+  top: 50px;
+}
+[r]:before,
+[r]:after {
+  width: 10px;
+  height: 180px;
+  background: #f3ac3c;
+  border-radius: 5px;
+  transform-origin: 5px 100px;
+}
+[r]:before {
+  transform: rotate(60deg);
+}
+[r]:after {
+  transform: rotate(120deg);
+}
+</style>
+</body>
+</html>
