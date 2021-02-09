@@ -1,0 +1,32 @@
+<style>
+body {
+  background: #1a4341;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  margin: 0;
+}
+body:before {
+  width: 50px;
+  height: 200px;
+  border-radius: 25px 25px 0 0;
+  position: absolute;
+  content: '';
+  bottom: 0;
+  left: 25px;
+  background: #f3ac3c;
+  box-shadow: 150px 0 #f3ac3c, 300px 0 #f3ac3c;
+}
+body:after {
+  width: 50px;
+  height: 200px;
+  border-radius: 0 0 25px 25px;
+  position: absolute;
+  content: '';
+  top: 0;
+  left: 100px;
+  background: #998235;
+  box-shadow: 150px 0 #998235;
+}
+</style>
