@@ -2,33 +2,24 @@
 <style>
 body {
   background: #6592cf;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 div {
-  width: 200px;
-  height: 200px;
-  background: #243d83;
+  width: 100px;
+  height: 100px;
+  background: #6592cf;
   border-radius: 0 100px 100px;
   position: relative;
+  box-shadow: 0 0 0 50px #243d83;
+  position: relative;
+  left: 142px;
+  top: 92px;
 }
 div:before {
-  width: 50%;
-  height: 50%;
-  background: #6592cf;
   position: absolute;
   content: '';
-  top: 50px;
-  left: 50px;
-  border-radius: 0 50% 50%;
-}
-div:after {
   width: 50px;
   height: 50px;
   background: #6592cf;
-  position: absolute;
-  content: '';
-  left: 50px;
+  top: -50px;
 }
 </style>
