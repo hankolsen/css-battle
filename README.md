@@ -10,8 +10,20 @@ My solutions for a few Css Battles
 
 ## Battle #6 - Conic
 [Target #31 - Equals](https://cssbattle.dev/play/31)  
-[Target #31 - Band-aid](https://cssbattle.dev/play/32)
+[Target #32 - Band-aid](https://cssbattle.dev/play/32)
+
+## Battle #7 - Backface
+[Target #36 - Interleaved](https://cssbattle.dev/play/36)  
+[Target #40 - Letter b](https://cssbattle.dev/play/40)
 
 ## Battle #8 - Transition
 [Target # 42 - Baby](https://cssbattle.dev/play/42)  
 [Target # 44 - Stripes](https://cssbattle.dev/play/44)
+
+## Battle #10 - Block
+[Target # 47 - Corona Virus](https://cssbattle.dev/play/47)  
+[Target # 48 - Wash Your Hands](https://cssbattle.dev/play/48)
+[Target # 49 - Stay at Home](https://cssbattle.dev/play/49)
+[Target # 50 - Use Hand Sanitizer](https://cssbattle.dev/play/50)  
+[Target # 51 - Wear a Mask](https://cssbattle.dev/play/51)
+[Target # 52 -Break the Chain](https://cssbattle.dev/play/52)
