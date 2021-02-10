@@ -1,0 +1,33 @@
+<div></div>
+<style>
+body {
+  background: #293462;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+div {
+  width: 100px;
+  height: 150px;
+  border-radius: 50px 50px 20px 20px;
+  background: #fff1c1;
+  position: relative;
+  top: -25px;
+}
+div:before,div:after {
+  content: '';
+  position: absolute;
+  width: 30px;
+  top: 150px;
+  left: 35px;
+}
+div:before {
+  background: #fe5f55;
+  height: 50px;
+  border-radius: 0 0 10px 10px;
+}
+div:after {
+  background: #a64942;
+  height: 10px;
+}
+</style>
