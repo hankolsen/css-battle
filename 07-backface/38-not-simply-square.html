@@ -1,0 +1,31 @@
+<div></div>
+<style>
+body {
+  background: #293462;
+  margin: 0;
+}
+div {
+  width: 200px;
+  height: 200px;
+  background: #fff1c1;
+  position: relative;
+}
+div:before,div:after {
+  background: #293462;
+  content: '';
+  position: absolute;  
+  background: #fe5f55;
+}
+div:before {
+  width: 150px;
+  height: 100px;
+  top: 200px;
+  box-shadow: 50px 0 0 #a64942;
+}
+div:after {
+  width: 100px;
+  height: 150px;
+  left: 200px;
+  box-shadow: 0 50px 0 #a64942;
+}
+</style>

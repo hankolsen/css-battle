@@ -18,6 +18,7 @@ My solutions for a few Css Battles
 [Target #35 - Ice Cream](https://cssbattle.dev/play/35)  
 [Target #36 - Interleaved](https://cssbattle.dev/play/36)  
 [Target #37 - Tunnel](https://cssbattle.dev/play/37)  
+[Target #38 - Not Simply Square](https://cssbattle.dev/play/38)  
 [Target #40 - Letter b](https://cssbattle.dev/play/40)
 
 ## Battle #8 - Transition
