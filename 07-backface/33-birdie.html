@@ -1,0 +1,35 @@
+<div></div>
+<style>
+body {
+  background: #1a4341;
+}
+div {
+  width: 75px;
+  height: 150px;
+  border-radius: 75px 0 0 75px;
+  background: #998235;
+  position: relative;
+  top: 67px;
+  left: 117px;
+}
+div:before,div:after {
+  content: '';
+  position: absolute;
+}
+div:before {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  top: 30px;
+  left: 30px;
+  background: #0b2429;
+}
+div:after {
+  width: 100px;
+  height: 100px;
+  border-radius: 0 100px 0 0;
+  top: -25px;
+  left: 75px;
+  background: #f3ac3c;
+}
+</style>

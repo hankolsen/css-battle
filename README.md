@@ -13,6 +13,7 @@ My solutions for a few Css Battles
 [Target #32 - Band-aid](https://cssbattle.dev/play/32)
 
 ## Battle #7 - Backface
+[Target #33 - Birdie](https://cssbattle.dev/play/33)  
 [Target #36 - Interleaved](https://cssbattle.dev/play/36)  
 [Target #40 - Letter b](https://cssbattle.dev/play/40)
 
