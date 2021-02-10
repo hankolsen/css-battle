@@ -1,0 +1,40 @@
+<div></div>
+<div></div>
+<style>
+body {
+  background: #293462;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+div {
+  width: 50px;
+  height: 170px;
+  border-radius: 0 40px 0 0;
+  background: #fe5f55;
+  position: relative;
+  top: 15px;
+}
+div:before,
+div:after {
+  background: #293462;
+  content: '';
+  position: absolute;
+}
+div:before {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  top: 60px;
+  left: 15px;
+}
+div:after {
+  width: 50px;
+  height: 80px;
+  border-radius: 0 40px 0 0;
+  top: 100px;
+}
+div + div {
+  transform: rotateY(180deg);
+}
+</style>

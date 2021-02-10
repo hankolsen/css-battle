@@ -17,6 +17,7 @@ My solutions for a few Css Battles
 [Target #40 - Letter b](https://cssbattle.dev/play/40)
 
 ## Battle #8 - Transition
+[Target # 41 - Fox Head](https://cssbattle.dev/play/41)  
 [Target # 42 - Baby](https://cssbattle.dev/play/42)  
 [Target # 44 - Stripes](https://cssbattle.dev/play/44)
 
