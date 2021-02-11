@@ -1,0 +1,54 @@
+<div a>
+  <div b></div>
+  <div c></div>
+  </div>
+  <style>
+  body {
+    background: #f2f2b6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  [a] {
+    width: 280px;
+    height: 130px;
+    overflow: hidden;
+    position: relative;
+  }
+  [b],[c] {
+    border: 180px solid transparent;
+      top: -180px;
+  }
+  [b] {
+    border-top-color: #ff6d00;
+    border-top-width: 310px;
+    position: relative;
+    left: -105px;
+  }
+  div:after {
+    content: '';
+    position: absolute;
+    border: inherit;
+    position: relative;
+    z-index: -1;
+    left: -160px;
+  }
+  [b]:after {
+    border-top-color: #fd4602;
+    border-top-width: 310px;
+    top: 0;
+  }
+  [c] {
+    position: absolute;
+    border-bottom-color: #fd4602;
+    border-bottom-width: 310px;
+    left: 5px;
+    width: 0;
+    height: 0;
+  }
+  [c]:after {
+    border-bottom-color: #ff6d00;
+    border-bottom-width: 310px;
+    top: -18px;
+  }
+  </style>
