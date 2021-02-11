@@ -10,6 +10,8 @@ My solutions for a few Css Battles
 
 ## Battle #2 - Visibility
 [Target #13 - Totally Triangle](https://cssbattle.dev/play/13)     
+[Target #16 - The Eye of the Tiger](https://cssbattle.dev/play/16)   
+[Target #17 - Fidget Spinner](https://cssbattle.dev/play/17)   
 [Target #18 - Matrix](https://cssbattle.dev/play/18)   
 ## Battle #5 - Inline
 [Target #29 - Suffocate](https://cssbattle.dev/play/29) Only 99.9% :(    

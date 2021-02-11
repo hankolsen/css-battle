@@ -1,0 +1,32 @@
+<div></div>
+<style>
+body {
+  background: #0b2429;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+div {
+  width: 50px;
+  height: 50px;
+  background: #0b2429;
+  border-radius: 50%;
+  box-shadow: 0 0 0 45px #f3ac3c, 0 0 0 65px #0b2429, 0 0 0 75px #998235;
+}
+div:after,div:before {
+  content: '';
+  position: absolute;
+  border: 78px solid transparent;
+  top: 72px;
+  z-index: -1;
+}
+div:after {
+  border-left-color: #998235;
+  right: -20px;
+}
+div:before {
+  border-right-color: #998235;
+  left: -20px;
+}
+</style>

@@ -1,0 +1,34 @@
+<div></div>
+<style>
+body {
+  background: #09042a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+div {
+  width: 100px;
+  height: 50px;
+  background: #e78481;
+  position: relative;
+}
+div:before,div:after {
+  position: absolute;
+  content: '';
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+}
+div:before {
+  background: #f5bb9c;
+  box-shadow: 0 0 0 10px #09042a, 0 106px 0 0 #f5bb9c, 0 106px 0 10px #09042a;
+  top: -58px;
+  left: 20px;
+}
+div:after {
+  left: -40px;
+  top: -5px;
+  background: #09042a;
+  box-shadow: 0 0 0 10px #e78481, 120px 0 0 #09042a, 120px 0 0 10px #e78481;
+}
+</style>
