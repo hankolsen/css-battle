@@ -2,8 +2,12 @@
 
 My solutions for a few Css Battles
 ## Battle #1 - Pilot Battle
+[Target #1 - Simply Square](https://cssbattle.dev/play/1)  
+[Target #2 - Carrom](https://cssbattle.dev/play/2)  
 [Target #3 - Push Button](https://cssbattle.dev/play/3)  
+[Target #5 - Acid Rain](https://cssbattle.dev/play/5)  
 [Target #6 - Missing Slice](https://cssbattle.dev/play/6)  
+[Target #7 - Leafy Trail](https://cssbattle.dev/play/7)  
 [Target #8 - Forking Crazy](https://cssbattle.dev/play/8)  
 [Target #9 - Tesseract](https://cssbattle.dev/play/9)  
 [Target #11 - Eye of Sauron](https://cssbattle.dev/play/11)
