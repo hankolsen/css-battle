@@ -8,6 +8,9 @@ My solutions for a few Css Battles
 [Target #9 - Tesseract](https://cssbattle.dev/play/9)  
 [Target #11 - Eye of Sauron](https://cssbattle.dev/play/11)
 
+## Battle #2 - Visibility
+[Target #13 - Totally Triangle](https://cssbattle.dev/play/13)     
+[Target #18 - Matrix](https://cssbattle.dev/play/18)   
 ## Battle #5 - Inline
 [Target #29 - Suffocate](https://cssbattle.dev/play/29) Only 99.9% :(    
 [Target #30 - Horizon](https://cssbattle.dev/play/30)    
