@@ -10,6 +10,7 @@ My solutions for a few Css Battles
 
 ## Battle #2 - Visibility
 [Target #13 - Totally Triangle](https://cssbattle.dev/play/13)     
+[Target #14 - Web Maker Logo](https://cssbattle.dev/play/14)   
 [Target #16 - The Eye of the Tiger](https://cssbattle.dev/play/16)   
 [Target #17 - Fidget Spinner](https://cssbattle.dev/play/17)   
 [Target #18 - Matrix](https://cssbattle.dev/play/18)   
