@@ -1,53 +1,36 @@
-<div a>
-  <div d></div>
-  <div e></div>
-  <div c></div>
-</div>
-<style>
+<div>
+  <style>
   body {
     background: #191210;
     display: flex;
     justify-content: center;
     align-items: center;
   }
-  [a] {
-    position: relative;
-  }
-  [d]:before,
-  [e]:before {
-    background: #191210;
-    width: 150px;
-    height: 80px;
-    position: absolute;
-    left: -20px;
-    top: -50px;
-    content: '';
-  }
-  [d],
-  [e] {
-    border-radius: 50%;
-    position: absolute;
-    width: 60px;
-    height: 60px;
-    box-shadow: 0 0 0 20px #eca03d;
-    top: -5px;
-    left: -105px;
-  }
-  [e] {
-    right: -105px;
-    top: -5px;
-    left: auto;
-  }
-  [e]:before {
-    left: -20px;
-    top: 30px;
-  }
-  [c] {
+  div {
     width: 50px;
     height: 50px;
-    position: relative;
-    border-radius: 50%;
     background: #84271c;
+    border-radius: 50%;
     box-shadow: 0 0 0 25px #191210, 0 0 0 45px #eca03d;
+    position: relative;
   }
-</style>
+  div:before,div:after {
+    position: absolute;
+    border-radius: 50%;
+    content: '';
+    border: 20px solid #eca03d;
+    border-top-color: transparent;
+    border-left-color: transparent;
+    width: 60px;
+    height: 60px;
+    top: -25px;
+  }
+  div:before {
+    left: -125px;
+    transform: rotate(45deg);
+  }
+  div:after {
+    transform: rotate(-135deg);
+    right: -125px;
+  }
+  </style>
