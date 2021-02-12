@@ -13,6 +13,7 @@ My goal is not to write hacky unreadable css, but rather to use as few html elem
 [Target #7 - Leafy Trail](https://cssbattle.dev/play/7)  
 [Target #8 - Forking Crazy](https://cssbattle.dev/play/8)  
 [Target #9 - Tesseract](https://cssbattle.dev/play/9)  
+[Target #10 - Cloaked Spirits](https://cssbattle.dev/play/10)
 [Target #11 - Eye of Sauron](https://cssbattle.dev/play/11)
 
 ## Battle #2 - Visibility
