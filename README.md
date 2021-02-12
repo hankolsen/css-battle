@@ -1,10 +1,13 @@
 ![Css Battle Logo](https://cssbattle.dev/images/logo.svg)
 
-My solutions for a few Css Battles
+My solutions for a few Css Battles.
+
+My goal is not to write hacky unreadable css, but rather to use as few html elements as possible.
 ## Battle #1 - Pilot Battle
 [Target #1 - Simply Square](https://cssbattle.dev/play/1)  
 [Target #2 - Carrom](https://cssbattle.dev/play/2)  
 [Target #3 - Push Button](https://cssbattle.dev/play/3)  
+[Target #4 - Ups n Downs](https://cssbattle.dev/play/4)  
 [Target #5 - Acid Rain](https://cssbattle.dev/play/5)  
 [Target #6 - Missing Slice](https://cssbattle.dev/play/6)  
 [Target #7 - Leafy Trail](https://cssbattle.dev/play/7)  

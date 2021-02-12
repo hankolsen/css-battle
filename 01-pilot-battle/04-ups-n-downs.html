@@ -1,0 +1,27 @@
+<div></div>
+<style>
+body {
+  background: #62306d;
+  display: flex;
+  justify-content: center;
+}
+div {
+  width: 100px;
+  height: 100px;
+  background: #f7ec7d;
+  border-radius: 50% 50% 0 0;
+  position: relative;
+  top: 42px;
+}
+div:before {
+  content: '';
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background: #f7ec7d;
+  border-radius: 0 0 50% 50%;
+  top: 100px;
+  left: -100px;
+  box-shadow: 200px 0 #f7ec7d;
+}
+</style>
