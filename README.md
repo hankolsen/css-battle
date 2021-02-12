@@ -23,6 +23,9 @@ My goal is not to write hacky unreadable css, but rather to use as few html elem
 [Target #16 - The Eye of the Tiger](https://cssbattle.dev/play/16)   
 [Target #17 - Fidget Spinner](https://cssbattle.dev/play/17)   
 [Target #18 - Matrix](https://cssbattle.dev/play/18)   
+## Battle #2 - Cursor
+[Target #20 - Ticket](https://cssbattle.dev/play/20)    
+
 ## Battle #5 - Inline
 [Target #29 - Suffocate](https://cssbattle.dev/play/29) Only 99.9% :(    
 [Target #30 - Horizon](https://cssbattle.dev/play/30)    
