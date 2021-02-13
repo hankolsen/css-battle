@@ -23,8 +23,14 @@ My goal is not to write hacky unreadable css, but rather to use as few html elem
 [Target #16 - The Eye of the Tiger](https://cssbattle.dev/play/16)   
 [Target #17 - Fidget Spinner](https://cssbattle.dev/play/17)   
 [Target #18 - Matrix](https://cssbattle.dev/play/18)   
-## Battle #2 - Cursor
+## Battle #3 - Cursor
 [Target #20 - Ticket](https://cssbattle.dev/play/20)    
+
+## Battle #4 - Display
+[Target #21 - Sitepoint Logo](https://cssbattle.dev/play/21)    
+[Target #22 - Cloud](https://cssbattle.dev/play/22)    
+[Target #23 - Boxception](https://cssbattle.dev/play/23)    
+[Target #24 - Switches](https://cssbattle.dev/play/24)    
 
 ## Battle #5 - Inline
 [Target #29 - Suffocate](https://cssbattle.dev/play/29) Only 99.9% :(    

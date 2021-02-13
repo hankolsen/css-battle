@@ -1,0 +1,35 @@
+<div></div>
+<style>
+body {
+  background: #222;
+}
+div {
+  top: 60px;
+  left: 158px;
+  width: 30px;
+  height: 90px;
+  transform: rotate(45deg);
+  background: #f2994a;
+  position: absolute;
+  box-shadow: 100px 28px #2d9cdb;
+}
+div:before,div:after {
+  position: absolute;
+  content: '';
+  width: 30px;
+  height: 80px;
+  border-radius: 5px 0 10px 0;
+}
+div:before {
+  background: #F2994A;
+  top: 44px;
+  left: 25px;
+  transform: rotate(90deg);
+}
+div:after {
+  background: #2d9cdb;
+  top: -8px;
+  left: 75px;
+  transform: rotate(-90deg);
+}
+</style>
