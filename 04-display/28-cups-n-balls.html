@@ -1,0 +1,37 @@
+<div></div>
+<style>
+body {
+  background: #1a4341;
+}
+div {
+  margin: 50px 72px;
+  width: 50;
+  height: 50;
+  left: -10px;
+  top: 40px;
+  border-radius: 50px 50px;
+  background: #998235;
+  position: relative;
+  box-shadow: 210px 0px #f3ac3c, 70px 70px #998235, 140px 70px #f3ac3c;
+}
+div:before,div:after {
+  position: absolute;
+  content: '';
+  width: 50px;
+  height: 50px;
+  border-radius: 50% 50% 0 0;
+  background: #f3ac3c;
+}
+div:before {
+  top: 0px;
+  left: 70px;
+  box-shadow: 70px 0 #998235;
+}
+div:after {
+  top: 70px;
+  left: 0px;
+  background: #f3ac3c;
+  border-radius: 0 0 50% 50%;
+  box-shadow: 210px 0 #998235;
+}
+</style>
