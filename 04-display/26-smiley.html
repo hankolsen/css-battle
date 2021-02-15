@@ -1,0 +1,30 @@
+<div></div>
+<style>
+body {
+  background: #6592cf;
+}
+div,div:before,div:after {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  border: 20px solid #060f55;
+  border-bottom-color: transparent;
+  border-left-color: transparent;
+  position: absolute;
+  content: '';
+}
+div {
+  margin: 40px 32px;
+  position: relative;
+  transform: rotate(-45deg);
+}
+div:after {
+  top: 122px;
+  left: 122px;
+}
+div:before {
+  top: 122px;
+  left: -20px;
+  transform: rotate(180deg);
+}
+</style>

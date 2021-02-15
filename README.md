@@ -31,6 +31,9 @@ My goal is not to write hacky unreadable css, but rather to use as few html elem
 [Target #22 - Cloud](https://cssbattle.dev/play/22)    
 [Target #23 - Boxception](https://cssbattle.dev/play/23)    
 [Target #24 - Switches](https://cssbattle.dev/play/24)    
+[Target #25 - Blossom](https://cssbattle.dev/play/25)    
+[Target #26 - Smiley](https://cssbattle.dev/play/26)    
+[Target #27 - Lock Up](https://cssbattle.dev/play/27)    
 [Target #28 - Cups & Balls](https://cssbattle.dev/play/28)    
 
 ## Battle #5 - Inline
