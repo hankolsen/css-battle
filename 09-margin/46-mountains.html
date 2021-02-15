@@ -1,0 +1,32 @@
+<div></div>
+<style>
+body {
+  background: #293462;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+div:before,div:after {
+  border: 50px solid #fe5f55;
+  border-color: transparent transparent #fe5f55;
+  content: '';
+  position: absolute;
+}
+div {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: #fff1c1;
+  overflow: hidden;
+  position: relative;
+}
+div:before {
+  border-width: 150px;
+  top: -92px;
+  left: -8px;
+}
+div:after {
+  top: 80px;
+  left: -20px;
+}
+</style>
