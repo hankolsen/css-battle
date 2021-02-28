@@ -15,6 +15,7 @@ My goal is not to write hacky unreadable css, but rather to use as few html elem
 [Target #9 - Tesseract](https://cssbattle.dev/play/9)  
 [Target #10 - Cloaked Spirits](https://cssbattle.dev/play/10)
 [Target #11 - Eye of Sauron](https://cssbattle.dev/play/11)
+[Target #12 - Wiggly Moustache](https://cssbattle.dev/play/12)
 
 ## Battle #2 - Visibility
 [Target #13 - Totally Triangle](https://cssbattle.dev/play/13)     
@@ -58,6 +59,7 @@ My goal is not to write hacky unreadable css, but rather to use as few html elem
 [Target # 42 - Baby](https://cssbattle.dev/play/42)  
 [Target # 44 - Stripes](https://cssbattle.dev/play/44)
 ## Battle #9 - Margin
+[Target # 45 - Magical Tree](https://cssbattle.dev/play/45)  
 [Target # 46 - Mountains](https://cssbattle.dev/play/46)  
 ## Battle #10 - Block
 [Target # 47 - Corona Virus](https://cssbattle.dev/play/47)  

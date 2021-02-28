@@ -1,0 +1,42 @@
+<div></div>
+<div b></div>
+<div c></div>
+<p>
+<style>
+body {
+  background: #f5d6b4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+div {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  border: 20px solid #d86f45;
+  border-bottom-color: transparent;
+  border-right-color: transparent;
+  transform: rotate(45deg);
+}
+[b],
+[c] {
+  transform: rotate(-135deg);
+  position: absolute;
+  top: 100px;
+  left: 230px;
+}
+[c] {
+  left: 70px;
+}
+p {
+  margin: 0;
+  background: #d86f45;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  position: absolute;
+  top: 140px;
+  left: 310px;
+  box-shadow: -240px 0px #d86f45;
+}
+</style>
