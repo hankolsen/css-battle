@@ -68,3 +68,6 @@ My goal is not to write hacky unreadable css, but rather to use as few html elem
 [Target # 50 - Use Hand Sanitizer](https://cssbattle.dev/play/50)  
 [Target # 51 - Wear a Mask](https://cssbattle.dev/play/51)  
 [Target # 52 -Break the Chain](https://cssbattle.dev/play/52)  
+## Battle #12 - Blend
+[Target # 62 - Sunset](https://cssbattle.dev/play/62)  
+[Target # 63 - Command Key](https://cssbattle.dev/play/63)  
