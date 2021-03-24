@@ -55,19 +55,21 @@ My goal is not to write hacky unreadable css, but rather to use as few html elem
 [Target #40 - Letter b](https://cssbattle.dev/play/40)
 
 ## Battle #8 - Transition
-[Target # 41 - Fox Head](https://cssbattle.dev/play/41)  
-[Target # 42 - Baby](https://cssbattle.dev/play/42)  
-[Target # 44 - Stripes](https://cssbattle.dev/play/44)
+[Target #41 - Fox Head](https://cssbattle.dev/play/41)  
+[Target #42 - Baby](https://cssbattle.dev/play/42)  
+[Target #44 - Stripes](https://cssbattle.dev/play/44)
 ## Battle #9 - Margin
-[Target # 45 - Magical Tree](https://cssbattle.dev/play/45)  
-[Target # 46 - Mountains](https://cssbattle.dev/play/46)  
+[Target #45 - Magical Tree](https://cssbattle.dev/play/45)  
+[Target #46 - Mountains](https://cssbattle.dev/play/46)  
 ## Battle #10 - Block
-[Target # 47 - Corona Virus](https://cssbattle.dev/play/47)  
-[Target # 48 - Wash Your Hands](https://cssbattle.dev/play/48)  
-[Target # 49 - Stay at Home](https://cssbattle.dev/play/49)  
-[Target # 50 - Use Hand Sanitizer](https://cssbattle.dev/play/50)  
-[Target # 51 - Wear a Mask](https://cssbattle.dev/play/51)  
-[Target # 52 -Break the Chain](https://cssbattle.dev/play/52)  
+[Target #47 - Corona Virus](https://cssbattle.dev/play/47)  
+[Target #48 - Wash Your Hands](https://cssbattle.dev/play/48)  
+[Target #49 - Stay at Home](https://cssbattle.dev/play/49)  
+[Target #50 - Use Hand Sanitizer](https://cssbattle.dev/play/50)  
+[Target #51 - Wear a Mask](https://cssbattle.dev/play/51)  
+[Target #52 -Break the Chain](https://cssbattle.dev/play/52)  
 ## Battle #12 - Blend
-[Target # 62 - Sunset](https://cssbattle.dev/play/62)  
-[Target # 63 - Command Key](https://cssbattle.dev/play/63)  
+[Target #62 - Sunset](https://cssbattle.dev/play/62)  
+[Target #63 - Command Key](https://cssbattle.dev/play/63)  
+## Battle #13 - Clip
+[Target #76 - Beeee](https://cssbattle.dev/play/76)  

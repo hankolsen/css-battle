@@ -1,0 +1,63 @@
+<div>
+  <div a></div>
+  <div b></div>
+</div>
+<div>
+  <div c></div>
+  <div d></div>
+</div>
+<style>
+body {
+  background: #998235;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 67px;
+}
+div {
+  display: flex;
+}
+:before,:after {
+  position: absolute;
+  content: '';
+}
+[a],[b],[c],[d] {
+  border-radius: 50% 50% 0 50%;
+  width: 75px;
+  height: 75px;
+  position: relative
+}
+[a],[b] {
+  background: #fff;
+}
+[b] {
+  border-radius: 50% 50% 50% 0;
+}
+[c] {
+  background: #191919;
+  width: 95px;
+  border-radius: 37.5px 0 0 37.5px;
+  overflow: hidden;
+}
+[c]:after {
+  width: 10px;
+  height: 100px;
+  background: #eff33c;
+  left: 25px;
+  box-shadow: 35px 0 0 #eff33c;
+}
+[d] {
+  background: #eff33c;
+  border-radius: 0 37.5px 37.5px 0;
+  width: 55px;
+}
+[d]:after {
+  width: 15px;
+  height: 15px;
+  background: #191919;
+  border-radius: 50%;
+  top: 20px;
+  left: 20px
+}
+</style>
