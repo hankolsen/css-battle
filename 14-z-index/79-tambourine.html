@@ -1,0 +1,43 @@
+<div a><p b></p></div><div c></div>
+<style>
+body {
+  background: #6592cf;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+[a] {
+  border: 10px solid #243d83;
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  position: relative;
+  top: 10px;
+  clip-path: circle();
+}
+[c] {
+  border: 5px solid #243d83;
+  border-radius: 50%;
+  width: 0px;
+  height: 0px;
+  position: absolute;
+  top: 115px;
+  left: 125px;
+  box-shadow: 0 0 0 10px #6592cf, 0 0 0 20px #243d83, 140px 0px 0 0px #243d83,
+    140px 0 0 10px #6592cf, 140px 0 0 20px #243d83, 0 70px 0 0px #243d83,
+    0 70px 0 10px #6592cf, 0 70px 0 20px #243d83, 140px 70px 0 0px #243d83,
+    140px 70px 0 10px #6592cf, 140px 70px 0 20px #243d83,
+    70px -40px 0 0px #243d83, 70px -40px 0 10px #6592cf,
+    70px -40px 0 20px #243d83;
+}
+[b] {
+  width: 100px;
+  height: 100px;
+  border: 10px solid #243d83;
+  border-radius: 50%;
+  top: 99px;
+  left: 15px;
+  background: #6592cf;
+  position: relative;
+}
+</style>
