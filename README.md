@@ -78,3 +78,6 @@ My goal is not to write hacky unreadable css, but rather to use as few html elem
 [Target #78 - Ukulele](https://cssbattle.dev/play/78) 
 [Target #79 - Tambourine](https://cssbattle.dev/play/79) 
 [Target #80 - Piano](https://cssbattle.dev/play/80) 
+
+## Battle #14 - Filter
+[Target #82 - Diamond Cut](https://cssbattle.dev/play/82) 
