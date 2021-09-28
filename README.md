@@ -82,3 +82,4 @@ My goal is not to write hacky unreadable css, but rather to use as few html elem
 ## Battle #14 - Filter
 [Target #81 - Odoo](https://cssbattle.dev/play/81) 
 [Target #82 - Diamond Cut](https://cssbattle.dev/play/82) 
+[Target #83 - Super Nova](https://cssbattle.dev/play/83) 
