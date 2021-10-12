@@ -79,8 +79,10 @@ My goal is not to write hacky unreadable css, but rather to use as few html elem
 [Target #79 - Tambourine](https://cssbattle.dev/play/79) 
 [Target #80 - Piano](https://cssbattle.dev/play/80) 
 
-## Battle #14 - Filter
+## Battle #15 - Filter
 [Target #81 - Odoo](https://cssbattle.dev/play/81) 
 [Target #82 - Diamond Cut](https://cssbattle.dev/play/82) 
 [Target #83 - Super Nova](https://cssbattle.dev/play/83) 
 [Target #84 - Junction](https://cssbattle.dev/play/84) 
+[Target #85 - Pythagoras](https://cssbattle.dev/play/85) 
+[Target #88 - Tight Corner](https://cssbattle.dev/play/88) 

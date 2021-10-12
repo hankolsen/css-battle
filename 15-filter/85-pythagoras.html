@@ -1,0 +1,36 @@
+<div></div>
+<style>
+body {
+  background: #d25b70;
+  display: flex;
+  justify-content: center;
+}
+div {
+  width: 100px;
+  height: 100px;
+  background: #f7f3da;
+  position: relative;
+  top: 50%;
+}
+div:after,
+div:before {
+  position: absolute;
+  content: '';
+}
+div:after {
+  width: 60px;
+  height: 60px;
+  background: #6cb3a9;
+  transform: rotate(-53deg);
+  top: -72px;
+  left: -36px;
+}
+div:before {
+  width: 80px;
+  height: 80px;
+  background: #f6df96;
+  transform: rotate(37deg);
+  top: -96px;
+  left: 52px;
+}
+</style>

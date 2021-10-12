@@ -1,0 +1,29 @@
+<div a><div c></div></div>
+<div b><div c></div></div>
+<style>
+body {
+  background: #f7f3da;
+  display: flex;
+  align-items: center;
+  margin: 0;
+}
+[a],
+[b] {
+  width: 50%;
+  height: 80px;
+  background: #d25b70;
+  border-radius: 0 10px;
+  position: relative;
+}
+[b] {
+  transform: rotate(180deg);
+}
+[c] {
+  height: 80px;
+  position: absolute;
+  top: 50%;
+  border-radius: 0 20px;
+  width: 100%;
+  background: #f7f3da;
+}
+</style>
