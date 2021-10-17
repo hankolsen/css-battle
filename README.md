@@ -85,4 +85,5 @@ My goal is not to write hacky unreadable css, but rather to use as few html elem
 [Target #83 - Super Nova](https://cssbattle.dev/play/83) 
 [Target #84 - Junction](https://cssbattle.dev/play/84) 
 [Target #85 - Pythagoras](https://cssbattle.dev/play/85) 
+[Target #87 - Building Blocks](https://cssbattle.dev/play/87) 
 [Target #88 - Tight Corner](https://cssbattle.dev/play/88) 

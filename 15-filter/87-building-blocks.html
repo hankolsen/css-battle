@@ -1,0 +1,46 @@
+<div></div><div></div><p></p>
+<style>
+body {
+  background: #f3ac3c;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+div {
+  top: -60px;
+  left: 15px;
+  width: 70px;
+  height: 50px;
+  background: #1a4341;
+  border-radius: 0 10px 10px 0;
+  position: relative;
+}
+div:before,div:after,p {
+  content: '';
+  background: #1a4341;
+  position: absolute;
+  border-radius: 10px;
+}
+div:after {
+  width: 20px;
+  height: 20px;
+  bottom: -10px;
+  left: 10px;
+}
+div:before {
+  width: 100px;
+  height: 100px;
+  top: -0px;
+  left: -80px;
+}
+div+div {
+  transform: rotate(180deg);
+  top: 60px;
+  left: -15px;
+}
+p {
+  width: 70px;
+  height: 70px;
+  background: #f3ac3c;
+}
+</style>
