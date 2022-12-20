@@ -13,8 +13,8 @@ My goal is not to write hacky unreadable css, but rather to use as few html elem
 [Target #7 - Leafy Trail](https://cssbattle.dev/play/7)  
 [Target #8 - Forking Crazy](https://cssbattle.dev/play/8)  
 [Target #9 - Tesseract](https://cssbattle.dev/play/9)  
-[Target #10 - Cloaked Spirits](https://cssbattle.dev/play/10)
-[Target #11 - Eye of Sauron](https://cssbattle.dev/play/11)
+[Target #10 - Cloaked Spirits](https://cssbattle.dev/play/10)  
+[Target #11 - Eye of Sauron](https://cssbattle.dev/play/11)  
 [Target #12 - Wiggly Moustache](https://cssbattle.dev/play/12)
 
 ## Battle #2 - Visibility
@@ -67,23 +67,26 @@ My goal is not to write hacky unreadable css, but rather to use as few html elem
 [Target #49 - Stay at Home](https://cssbattle.dev/play/49)  
 [Target #50 - Use Hand Sanitizer](https://cssbattle.dev/play/50)  
 [Target #51 - Wear a Mask](https://cssbattle.dev/play/51)  
-[Target #52 -Break the Chain](https://cssbattle.dev/play/52)  
+[Target #52 - Break the Chain](https://cssbattle.dev/play/52)  
 ## Battle #12 - Blend
 [Target #62 - Sunset](https://cssbattle.dev/play/62)  
 [Target #63 - Command Key](https://cssbattle.dev/play/63)  
 ## Battle #13 - Clip
 [Target #76 - Beeee](https://cssbattle.dev/play/76)  
 ## Battle #14 - ZIndex
-[Target #77 - Notes](https://cssbattle.dev/play/77) 
-[Target #78 - Ukulele](https://cssbattle.dev/play/78) 
+[Target #77 - Notes](https://cssbattle.dev/play/77)  
+[Target #78 - Ukulele](https://cssbattle.dev/play/78)  
 [Target #79 - Tambourine](https://cssbattle.dev/play/79) 
 [Target #80 - Piano](https://cssbattle.dev/play/80) 
 
 ## Battle #15 - Filter
-[Target #81 - Odoo](https://cssbattle.dev/play/81) 
-[Target #82 - Diamond Cut](https://cssbattle.dev/play/82) 
-[Target #83 - Super Nova](https://cssbattle.dev/play/83) 
+[Target #81 - Odoo](https://cssbattle.dev/play/81)  
+[Target #82 - Diamond Cut](https://cssbattle.dev/play/82)   
+[Target #83 - Super Nova](https://cssbattle.dev/play/83)  
 [Target #84 - Junction](https://cssbattle.dev/play/84) 
 [Target #85 - Pythagoras](https://cssbattle.dev/play/85) 
 [Target #87 - Building Blocks](https://cssbattle.dev/play/87) 
-[Target #88 - Tight Corner](https://cssbattle.dev/play/88) 
+[Target #88 - Tight Corner](https://cssbattle.dev/play/88)
+
+## Battle #22 - Grid
+[Target #139 - Lamp](https://cssbattle.dev/play/139)
