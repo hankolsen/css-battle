@@ -89,4 +89,5 @@ My goal is not to write hacky unreadable css, but rather to use as few html elem
 [Target #88 - Tight Corner](https://cssbattle.dev/play/88)
 
 ## Battle #22 - Grid
+[Target #134 - Wig](https://cssbattle.dev/play/134)  
 [Target #139 - Lamp](https://cssbattle.dev/play/139)
