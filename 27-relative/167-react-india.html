@@ -1,0 +1,37 @@
+<p a></p><p b></p>
+<style>
+  body {
+    background: #0d1335;
+    margin: 0;
+    display: grid;
+    place-items: center;
+    height: 100vh;
+  }
+  [a] {
+    width: 40px;
+    height: 40px;
+    background: #73c6ea;
+    border-radius: 50%;
+    position: relative;
+  }
+  [b], [b]:before, [b]:after {
+    position: absolute;
+    border: 10px solid #fbfae2;
+    width: 230px;
+    height: 90px;
+    border-radius: 50%;
+  }
+  [b]:before, [b]:after {
+    top: -10px;
+    left: -10px;
+    content: "";
+  }
+  [b]:before {
+    rotate: -60deg;
+    border-color: #4fa07b;
+  }
+  [b]:after {
+    rotate: 60deg;
+    border-color: #dc6638;
+  }
+</style>
